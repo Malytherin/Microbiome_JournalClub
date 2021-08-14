@@ -1,7 +1,7 @@
 # Welcome to the SCBI Microbiome Journal Club Repository!
  Here you can find documents, PDFs, code, etc for the microbiome journal club presentations
  
- ## GitHub Links
+ # GitHub Links
  
  ### Get GitHub and GitHub Desktop! 
  Make your life easier and keep track of all your edits and different versions of your code with GitHub. Make it _even easier_ by using GitHub Desktop (think of it like One Drive but for your code!).
@@ -11,8 +11,9 @@
  
  ### Open GitHub Desktop on your computer and follow the built in tutorial to get started!
  
+ 
 
-## Jupyter Lab Links
+# Jupyter Lab Links
 
 ### Download Jupyter Lab
  Create easy to follow code that you can auto-upload and keep track of with GitHub!
