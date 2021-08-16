@@ -33,3 +33,12 @@ to launch Jupyter Lab
 
 
 ## Article: [Ten Simple Rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007007)
+
+# Code Editors
+
+### Download [R](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/products/rstudio/download/)
+
+### Download [VS Code](https://code.visualstudio.com/Download)
+
+### Download [BBEdit](http://www.barebones.com/products/bbedit/index.html)
+
