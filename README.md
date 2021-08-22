@@ -4,7 +4,7 @@
  # GitHub Links
  
  ### Get GitHub and GitHub Desktop! 
- Make your life easier and keep track of all your edits and different versions of your code with GitHub. Make it _even easier_ by using GitHub Desktop (think of it like One Drive but for your code!).
+ Make your life easier and keep track of all your edits and different versions of your code with GitHub. Make it _even easier_ by using GitHub Desktop!
  
  [Sign up for a GitHub account](https://github.com/join) and
  [Get the desktop version](https://desktop.github.com/)
