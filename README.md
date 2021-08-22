@@ -1,5 +1,5 @@
 # Welcome to the SCBI Microbiome Journal Club Repository!
- Here you can find documents, PDFs, code, etc for the microbiome journal club presentations
+ Here you can find links and the PDF for journal club session for August 23, 2021
  
  # GitHub Links
  
