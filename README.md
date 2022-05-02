@@ -47,3 +47,5 @@ to use R Markdown ```install.packages("rmarkdown")```
 Adding a new line here!
 Another line to test
 
+
+From cloned version
