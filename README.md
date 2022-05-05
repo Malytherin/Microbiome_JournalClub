@@ -44,6 +44,3 @@ to use R Markdown ```install.packages("rmarkdown")```
 
 ### Download [BBEdit](http://www.barebones.com/products/bbedit/index.html)
 
-
-
-From cloned version
